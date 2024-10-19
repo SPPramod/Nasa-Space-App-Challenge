@@ -21,7 +21,7 @@ Welcome to the **NASA App**! This web application is an educational platform des
 - **Data Visualization**: Dynamic visualizations of exoplanet discoveries using the Kepler dataset.
 - **Games and Quizzes**: Educational games and quizzes to test and improve space knowledge.
 - **Augmented Reality (AR) Experience**: Explore planets using AR technology for an immersive experience.
-( Download AR app in the website, have a visual experience and a great learning about exoplanets )
+    ( Download AR app in the website, have a visual experience and a great learning about exoplanets )
 
 ---
 
