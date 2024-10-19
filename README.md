@@ -53,7 +53,7 @@ As it is third party app your device asks permission to downlaod,it's completely
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/Tejas-007-11/NASA-APP/raw/refs/heads/main/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 
 Contact
