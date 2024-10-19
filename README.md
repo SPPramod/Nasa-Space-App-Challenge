@@ -45,8 +45,8 @@ To run the **NASA App** locally, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/nasa-app.git
-    cd nasa-app
+    git clone https://github.com/SPPramod/Nasa-Space-App-Challenge.git
+    cd Nasa-Space-App-Challenge
     ```
 
 2. **Open** the `index.html` file in your web browser.
