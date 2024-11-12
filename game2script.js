@@ -18,7 +18,7 @@ class Spaceship {
         this.height = 50;
         this.velocity = 0;
         this.image = new Image();
-        this.image.src = 'spaceship.png'; // Add spaceship image
+        this.image.src = 'images/spaceship.png'; // Add spaceship image
     }
 
     draw() {
@@ -98,7 +98,7 @@ class Alien {
         this.height = 40;
         this.speed = 3;
         this.image = new Image();
-        this.image.src = 'alien.png'; // Add alien image
+        this.image.src = 'images/alien.png'; // Add alien image
     }
 
     draw() {
