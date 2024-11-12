@@ -37,7 +37,7 @@ Welcome to the **NASA App**! This web application is an educational platform des
 
 ## Live Demo
 Check out the live version of the NASA App:  
-[Live Demo](https://tejas-007-11.github.io/NASA-APP/)
+[Live Demo](https://sppramod.github.io/Nasa-Space-App-Challenge/)
 
 ---
 
